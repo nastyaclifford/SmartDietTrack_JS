@@ -1,7 +1,7 @@
 # SmartDietTrack
 Eat smart - it’s easy and tasty! :)
 
-/ https://3girls-team.github.io/SmartDietTrack/ /
+/ https://nastyaclifford.github.io/SmartDietTrack_JS/ /
 
 ## Website Design
 https://www.figma.com/file/FBaI8hSPn5Exv6TCKNzXxh/Healthy-Eating-Template?type=design&node-id=1-430&mode=design&t=YPWvXlBIFaEtEXLM-0

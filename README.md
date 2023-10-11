@@ -3,9 +3,9 @@ Eat smart - it’s easy and tasty! :)
 
 / https://nastyaclifford.github.io/SmartDietTrack_JS/ /
 
-<img align="left" width=600 src="Website_pics/SDT_header.png" />
+<img align="left" width=400 src="Website_pics/SDT_header.png" />
 
-<img align="right" width=600 src="Website_pics/SDT_forms.png" />
+<img align="right" width=400 src="Website_pics/SDT_forms.png" />
 
 
 ## Website Design

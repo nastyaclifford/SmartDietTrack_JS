@@ -3,8 +3,11 @@ Eat smart - it’s easy and tasty! :)
 
 / https://nastyaclifford.github.io/SmartDietTrack_JS/ /
 
-<img align="center" width=600 src="Website_pics/SDT_header.png" />
 <img align="right" width=600 src="Website_pics/SDT_header.png" />
+<img align="right" width=600 src="Website_pics/SDT_forms.png" />
+<img align="right" width=600 src="Website_pics/SDT_calc.png" />
+<img align="right" width=600 src="Website_pics/SDT_recipes.png" />
+<img align="right" width=600 src="Website_pics/SDT_feedback.png" />
 
 ## Website Design
 https://www.figma.com/file/FBaI8hSPn5Exv6TCKNzXxh/Healthy-Eating-Template?type=design&node-id=1-430&mode=design&t=YPWvXlBIFaEtEXLM-0

@@ -51,7 +51,7 @@ It is a single page website with a modal box.
 
 ## Set up instruction
 
-git clone https://github.com/3Girls-team/SmartDietTrack/tree/MASTER
+git clone https://github.com/nastyaclifford/SmartDietTrack_JS.git
 
 ## Thanks to all contributors! 
 

@@ -3,7 +3,9 @@ Eat smart - it’s easy and tasty! :)
 
 / https://nastyaclifford.github.io/SmartDietTrack_JS/ /
 
-<img align="right" width=600 src="Website_pics/SDT_header.png" />
+<img align="left" width=600 src="Website_pics/SDT_header.png" />
+
+<img align="right" width=600 src="Website_pics/SDT_forms.png" />
 
 
 ## Website Design
@@ -13,7 +15,7 @@ Design was developed using a free Figma template https://www.figma.com/file/NzUx
 
 ## Website Description
 
-<img align="right" width=600 src="Website_pics/SDT_forms.png" />
+
 
 SmartDietTrack is a website for getting information about key nutrients in foods, calculating your daily calorie intake, and finding healthy, balanced recipes.
 The goal of the project was to create a functional, interactive website built on HTML, SASS, JavaScript, API.

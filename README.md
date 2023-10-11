@@ -4,10 +4,7 @@ Eat smart - it’s easy and tasty! :)
 / https://nastyaclifford.github.io/SmartDietTrack_JS/ /
 
 <img align="right" width=600 src="Website_pics/SDT_header.png" />
-<img align="right" width=600 src="Website_pics/SDT_forms.png" />
-<img align="right" width=600 src="Website_pics/SDT_calc.png" />
-<img align="right" width=600 src="Website_pics/SDT_recipes.png" />
-<img align="right" width=600 src="Website_pics/SDT_feedback.png" />
+
 
 ## Website Design
 https://www.figma.com/file/FBaI8hSPn5Exv6TCKNzXxh/Healthy-Eating-Template?type=design&node-id=1-430&mode=design&t=YPWvXlBIFaEtEXLM-0
@@ -15,6 +12,8 @@ https://www.figma.com/file/FBaI8hSPn5Exv6TCKNzXxh/Healthy-Eating-Template?type=d
 Design was developed using a free Figma template https://www.figma.com/file/NzUxmldLBgTid1UN0AiwJF/Agriculture-Webflow-Website-Template-(Community)?type=design&node-id=2-9967&mode=design&t=26za1y9YxPiBUaVe-0
 
 ## Website Description
+
+<img align="right" width=600 src="Website_pics/SDT_forms.png" />
 
 SmartDietTrack is a website for getting information about key nutrients in foods, calculating your daily calorie intake, and finding healthy, balanced recipes.
 The goal of the project was to create a functional, interactive website built on HTML, SASS, JavaScript, API.
@@ -25,6 +24,8 @@ It is a single page website with a modal box.
 
 ## Technologies & tools 
 
+<img align="right" width=600 src="Website_pics/SDT_calc.png" />
+
 * JavaScript
 * HTML5
 * SASS, CSS
@@ -33,6 +34,8 @@ It is a single page website with a modal box.
 
 
 ## Website Structure
+
+<img align="right" width=600 src="Website_pics/SDT_recipes.png" />
 
 1. Header with the links to the website sections and a sign-in form. JavaScript was used for developing a hamburger-menu. 
 
@@ -54,6 +57,7 @@ It is a single page website with a modal box.
 
 10. Footer with the links to the website sections. 
 
+<img align="right" width=600 src="Website_pics/SDT_feedback.png" />
 
 ## Set up instruction
 

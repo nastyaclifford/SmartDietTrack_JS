@@ -58,7 +58,3 @@ git clone https://github.com/3Girls-team/SmartDietTrack/tree/MASTER
 [![Contributors](https://contrib.rocks/image?repo=3Girls-team/SmartDietTrack)](https://github.com/3Girls-team/SmartDietTrack/graphs/contributors)
 
 
-
-9. Все файлы со стилями собираются и импортируются в файле SmartDietTrack/assets/styles/scss/index.scss
-
-10. Используемые изображения находятся в файле SmartDietTrack/assets/images

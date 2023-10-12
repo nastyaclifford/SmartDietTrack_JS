@@ -3,9 +3,8 @@ Eat smart - it’s easy and tasty! :)
 
 / https://nastyaclifford.github.io/SmartDietTrack_JS/ /
 
-<img align="left" width=500 src="Website_pics/SDT_header.png" />
+<img align="center" width=800 src="Website_pics/SDT_1" />
 
-<img align="right" width=500 src="Website_pics/SDT_forms.png" />
 
 
 ## Website Design
@@ -26,8 +25,6 @@ It is a single page website with a modal box.
 
 ## Technologies & tools 
 
-<img align="right" width=600 src="Website_pics/SDT_calc.png" />
-
 * JavaScript
 * HTML5
 * SASS, CSS
@@ -37,7 +34,6 @@ It is a single page website with a modal box.
 
 ## Website Structure
 
-<img align="right" width=600 src="Website_pics/SDT_recipes.png" />
 
 1. Header with the links to the website sections and a sign-in form. JavaScript was used for developing a hamburger-menu. 
 
@@ -58,8 +54,6 @@ It is a single page website with a modal box.
 9. Form for news subscription. For developing this form we used JS and free API with quotations https://type.fit/api/quotes. After submitting data, the user will see a motivational message.
 
 10. Footer with the links to the website sections. 
-
-<img align="right" width=600 src="Website_pics/SDT_feedback.png" />
 
 ## Set up instruction
 

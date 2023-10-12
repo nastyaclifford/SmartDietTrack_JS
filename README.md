@@ -3,7 +3,7 @@ Eat smart - it’s easy and tasty! :)
 
 / https://nastyaclifford.github.io/SmartDietTrack_JS/ /
 
-<img align="center" width=800 src="Website_pics/SDT_1" />
+<img align="center" width=800 src="Website_pics/SDT_1.png" />
 
 
 

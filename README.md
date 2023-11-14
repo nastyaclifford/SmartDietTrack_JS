@@ -62,6 +62,6 @@ git clone https://github.com/nastyaclifford/SmartDietTrack_JS.git
 
 ## Thanks to all contributors! 
 
-[![Contributors](https://contrib.rocks/image?repo=3Girls-team/SmartDietTrack)](https://github.com/nastyaclifford/SmartDietTrack_JS/dev/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=3Girls-team/SmartDietTrack)](https://github.com/nastyaclifford/SmartDietTrack_JS/graphs/contributors)
 
 

@@ -1,6 +1,8 @@
 # SmartDietTrack
 Eat smart - it’s easy and tasty! :)
 
+The purpose of this project was to build a website accessible on both mobile and desktop devices. It enables users to access information about key nutrients in foods, calculate their daily calorie intake, and discover healthy, balanced recipes. 
+
 / https://nastyaclifford.github.io/SmartDietTrack_JS/ /
 
 <img align="center" width=800 src="Website_pics/SDT_1.png" />
